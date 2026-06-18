@@ -44,7 +44,9 @@
 
 👉 [阅读 第03章：《四百只鸭子与田埂上的歌》](./chapters/03-four-hundred-ducks.md)
 
-👉 [阅读 第04章：《四星村的鳝鱼》（预告）](./chapters/04-sixing-village-eels.md)
+👉 [阅读 第04章：《四星村的鳝鱼》](./chapters/04-sixing-village-eels.md)
+
+👉 [阅读 第05章：《爷爷的鸭棚》（预告）](./chapters/05-grandpas-duck-shed.md)
 
 ---
 
