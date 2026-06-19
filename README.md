@@ -1,11 +1,13 @@
-![底层重构](./cover.png)
+# 底层重构
 
-# Life is a legacy system that requires constant refactoring.
-
-## 底层重构
+## Life is a legacy system that requires constant refactoring.
 
 > 人生和软件系统其实很像。
 > 都会积累技术债，都会经历失控，也都需要不断重构。
+
+《底层重构》是一部持续连载的人生回忆录，写的是一个被三百块钱赶出学校的少年，后来如何一步一步把自己的人生重新搭起来。
+
+这里没有成功学，也没有技术鸡汤。这里只有辍学、放鸭、抓鳝鱼、学手艺、进城、写代码，和一个从湖北洪湖农村走出来的人，如何在一次次失控之后，把自己从旧系统里慢慢重构出来的真实过程。
 
 👉 [关于作者](./ABOUT.md)
 
@@ -31,6 +33,12 @@
 
 ---
 
+![底层重构](./cover.png)
+
+---
+
 **Still building.**
+
 **Still learning.**
+
 **Still refactoring.**
