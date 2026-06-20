@@ -23,7 +23,9 @@
 
 👉 [阅读 第05章：《爷爷的鸭棚》](./chapters/05-grandpas-duck-shed.md)
 
-👉 [阅读 第06章：《千禧年，第一次进城的少年》（预告）](./chapters/06-millennium-first-trip-to-city.md)
+👉 [阅读 第06章：《千禧年，第一次进城的少年》](./chapters/06-millennium-first-trip-to-city.md)
+
+👉 [阅读 第07章：《出租屋里的火气》（预告）](./chapters/07-rental-room-anger.md)
 
 ### 为什么写《底层重构》
 
