@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README-zh-Hant.md">繁體中文</a>
+</p>
+
 # 底层重构
 
 ## Life is a legacy system that requires constant refactoring.
