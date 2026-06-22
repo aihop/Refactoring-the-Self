@@ -66,6 +66,10 @@
 
 一個是冬天食堂裏，嚴正兵把饅頭掰成兩半，遞給我，什麼都沒説。
 
+## 💬 读者批注
+
+![comments](https://commentsvg.coller.workers.dev/reconstruct/02-experimental-class-list.svg)
+
 ---
 
 [← 上一章：三百塊錢趕出了學校](./01-kicked-out-for-300.md) | [返回目錄](../README.md) | [下一章：第一次學會獨自面對黑夜 →](./03-four-hundred-ducks.md)

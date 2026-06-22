@@ -66,6 +66,10 @@
 
 一个是冬天食堂里，严正兵把馒头掰成两半，递给我，什么都没说。
 
+## 💬 读者批注
+
+![comments](https://commentsvg.coller.workers.dev/reconstruct/02-experimental-class-list.svg)
+
 ---
 
 [← 上一章：三百块钱赶出了学校](./01-kicked-out-for-300.md) | [返回目录](../README.md) | [下一章：第一次学会独自面对黑夜 →](./03-four-hundred-ducks.md)

@@ -94,6 +94,10 @@
 
 这一年没有课本，没有考试，没有成绩单。可我学到的东西，一点不比学校里少——只是没人给我打分。
 
+## 💬 读者批注
+
+![comments](https://commentsvg.coller.workers.dev/reconstruct/03-four-hundred-ducks.svg)
+
 ---
 
 [← 上一章：一七班与半个馒头](./02-experimental-class-list.md) | [返回目录](../README.md) | [下一章：鼻青脸肿的笑 →](./04-sixing-village-eels.md)

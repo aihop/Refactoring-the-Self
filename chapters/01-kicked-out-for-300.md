@@ -62,6 +62,11 @@
 
 她转身走在了前面。我跟在她身后，一路没再说话。
 
----
+
+
+## 💬 读者批注
+
+![comments](https://commentsvg.coller.workers.dev/reconstruct/01-kicked-out-for-300.svg)
+
 
 [← 返回目录](../README.md) | [下一章：一七班与半个馒头 →](./02-experimental-class-list.md)
