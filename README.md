@@ -68,3 +68,5 @@
 **Still learning.**
 
 **Still refactoring.**
+
+![访客](https://visitor-badge.laobi.icu/badge?page_id=aihop.Refactoring-the-Self)
