@@ -37,7 +37,9 @@
 
 👉 [阅读 第10章：《驾驶室里的卧铺》](./chapters/10-drivers-berth.md)
 
-👉 [阅读 第11章：《过年之前》（预告）](./chapters/11-before-new-year.md)
+👉 [阅读 第11章：《过年之前》](./chapters/11-before-new-year.md)
+
+👉 [阅读 第12章：《点亮了》（预告）](./chapters/12-lit-up.md)
 
 ### 番外篇
 
