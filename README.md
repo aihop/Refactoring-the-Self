@@ -43,7 +43,9 @@
 
 👉 [阅读 第13章：《跑车了》](./chapters/13-on-the-road.md)
 
-👉 [阅读 第14章：《红叶网吧》（预告）](./chapters/14-redleaf-netbar.md)
+👉 [阅读 第14章：《红叶网吧》](./chapters/14-redleaf-netbar.md)
+
+👉 [阅读 第15章：《第一次越界》（预告）](./chapters/15-first-boundary.md)
 
 ### 番外篇
 
