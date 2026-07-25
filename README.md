@@ -57,7 +57,9 @@
 
 👉 [阅读 第19章：《太平斧》](./chapters/19-war-axe.md)
 
-👉 [阅读 第20章：《睡在车顶上的日子》（预告）](./chapters/20-sleeping-on-roof.md)
+👉 [阅读 第20章：《睡在车顶上的日子》](./chapters/20-sleeping-on-roof.md)
+
+👉 [阅读 第21章：《轻松一点》（预告）](./chapters/21-lighten-up.md)
 
 ### 番外篇
 
