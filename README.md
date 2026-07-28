@@ -69,6 +69,8 @@
 
 👉 [给连载小说做了一个轻量 SVG 访客统计](./blog/lightweight-svg-analytics-for-serial-novels.md)
 
+👉 [每3个月给阿里 CDN 换一次证书，我终于受不了了](./blog/gopanel-ssl-auto-renew.md)
+
 ### 为什么写《底层重构》
 
 人生和软件系统其实很像。都会积累技术债，都会经历失控，也都需要不断重构。
