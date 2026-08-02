@@ -38,4 +38,4 @@
 **Still learning.**
 **Still refactoring.**
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=about-zh-Hant)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=about)

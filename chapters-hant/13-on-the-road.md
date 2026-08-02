@@ -1,6 +1,6 @@
 # 跑車了
 
-## —— 107国道的夜風
+## —— 107國道的夜風
 
 2001年入春，跟着肖師傅修車已經整整一年了。
 
@@ -300,4 +300,4 @@
 
 [← 上一章：一把烙鐵與一碗紅燒肉](./12-lit-up.md) | [返回目錄](../README.md) | [下一章：藍光裏的另一個世界 →](./14-redleaf-netbar.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters-hant/13-on-the-road)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/13-on-the-road)

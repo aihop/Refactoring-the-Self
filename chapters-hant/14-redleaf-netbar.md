@@ -284,4 +284,4 @@ QQ打開了。
 
 [← 上一章：從修理槽出來](./13-on-the-road.md) | [返回目錄](../README.md) | [下一章：一個輪胎、三百塊錢 →](./15-first-boundary.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters-hant/14-redleaf-netbar)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/14-redleaf-netbar)

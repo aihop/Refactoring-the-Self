@@ -1,5 +1,5 @@
-> 本文由 OpenCC 自動從簡體中文轉換為繁體中文（香港）。
-> 如有表達不自然之處，歡迎反饋。
+> 本文由 OpenCC 自动从简体中文转换为繁体中文（香港）。
+> 如有表达不自然之处，欢迎反馈。
 
 <p align="right">
   <a href="./README-zh-Hant.md">繁體中文</a>
@@ -16,8 +16,7 @@
 
 這裏沒有成功學，也沒有技術雞湯。這裏只有輟學、放鴨、抓鱔魚、學手藝、進城、寫代碼，和一個從湖北洪湖農村走出來的人，如何在一次次失控之後，把自己從舊系統裏慢慢重構出來的真實過程。
 
-更新說明：近期發生了點事，暫定每週不定時更新 2 章。
-
+更新説明：近期發生了些事，暫定每週不定時更新 2 章。
 
 👉 [關於作者](./ABOUT.md)
 
@@ -53,7 +52,7 @@
 
 👉 [閲讀 第15章：《第一次越界》](./chapters/15-first-boundary.md)
 
-👉 [閲讀 第16章：《歪財的餘溫》](./chapters/16-afterglow-of-windfall.md)
+👉 [閲讀 第16章：《歪財的餘温》](./chapters/16-afterglow-of-windfall.md)
 
 👉 [閲讀 第17章：《飛車》](./chapters/17-motorcycle-crash.md)
 
@@ -63,7 +62,11 @@
 
 👉 [閲讀 第20章：《睡在車頂上的日子》](./chapters/20-sleeping-on-roof.md)
 
-👉 [閲讀 第21章：《輕鬆一點》（預告）](./chapters/21-lighten-up.md)
+👉 [閲讀 第21章：《翻斗車》](./chapters/21-dump-truck.md)
+
+👉 [閲讀 第22章：《輕鬆一點》](./chapters/22-lighten-up.md)
+
+👉 [閲讀 第23章：《傳奇私服》（預告）](./chapters/23-legend-private-server.md)
 
 ### 番外篇
 
@@ -71,7 +74,13 @@
 
 👉 [我的老闆](./blog/my-boss.md)
 
-👉 [給連載小說做了一個輕量 SVG 訪客統計](./blog/lightweight-svg-analytics-for-serial-novels.md)
+👉 [給連載小説做了一個輕量 SVG 訪客統計](./blog/lightweight-svg-analytics-for-serial-novels.md)
+
+👉 [每3個月給阿里 CDN 換一次證書，我終於受不了了](./blog/gopanel-ssl-auto-renew.md)
+
+👉 [這麼多年，我還是最習慣 phpMyAdmin](./blog/gopanel-database-management.md)
+
+👉 [我同時用 4 個 AI，不是因為我有錢](./blog/how-i-use-ai-tools.md)
 
 ### 為什麼寫《底層重構》
 
@@ -101,4 +110,4 @@
 
 **Still refactoring.**
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=readme-zh-hant)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?label=Visits&page_id=readme)

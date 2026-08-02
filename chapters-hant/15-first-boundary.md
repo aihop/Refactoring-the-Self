@@ -124,4 +124,4 @@ QQ還是不停地響。
 
 [← 上一章：藍光裏的另一個世界](./14-redleaf-netbar.md) | [返回目錄](../README.md) | [下一章：人開始變得不耐煩的時候 →](./16-afterglow-of-windfall.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters-hant/15-first-boundary)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/15-first-boundary)

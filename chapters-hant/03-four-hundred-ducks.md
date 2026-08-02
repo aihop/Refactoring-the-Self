@@ -101,4 +101,4 @@
 
 [← 上一章：一七班與半個饅頭](./02-experimental-class-list.md) | [返回目錄](../README.md) | [下一章：鼻青臉腫的笑 →](./04-sixing-village-eels.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters-hant/03-four-hundred-ducks)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/03-four-hundred-ducks)

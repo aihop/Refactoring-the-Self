@@ -59,7 +59,11 @@
 
 👉 [阅读 第20章：《睡在车顶上的日子》](./chapters/20-sleeping-on-roof.md)
 
-👉 [阅读 第21章：《轻松一点》（预告）](./chapters/21-lighten-up.md)
+👉 [阅读 第21章：《翻斗车》](./chapters/21-dump-truck.md)
+
+👉 [阅读 第22章：《轻松一点》](./chapters/22-lighten-up.md)
+
+👉 [阅读 第23章：《传奇私服》（预告）](./chapters/23-legend-private-server.md)
 
 ### 番外篇
 
@@ -72,6 +76,8 @@
 👉 [每3个月给阿里 CDN 换一次证书，我终于受不了了](./blog/gopanel-ssl-auto-renew.md)
 
 👉 [这么多年，我还是最习惯 phpMyAdmin](./blog/gopanel-database-management.md)
+
+👉 [我同时用 4 个 AI，不是因为我有钱](./blog/how-i-use-ai-tools.md)
 
 ### 为什么写《底层重构》
 

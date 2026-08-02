@@ -144,4 +144,4 @@
 
 [← 上一章：煤油燈](./05-grandpas-duck-shed.md) | [返回目錄](../README.md) | [下一章：曹憨子的那盆水 →](./07-rental-room-anger.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters-hant/06-millennium-first-trip-to-city)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/06-millennium-first-trip-to-city)

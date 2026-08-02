@@ -206,4 +206,4 @@
 
 [← 上一章：千禧年，第一次進城的少年](./06-millennium-first-trip-to-city.md) | [返回目錄](../README.md) | [下一章：那些叫"小師傅"的女孩 →](./08-repair-pit.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters-hant/07-rental-room-anger)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/07-rental-room-anger)

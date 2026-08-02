@@ -1,4 +1,4 @@
-# 歪財的餘溫
+# 歪財的餘温
 
 ## —— 人開始變得不耐煩的時候
 
@@ -184,4 +184,4 @@ QQ還是一閃一閃。
 
 [← 上一章：一個輪胎、三百塊錢](./15-first-boundary.md) | [返回目錄](../README.md) | [下一章：一輛摩托車、一個跟頭，以及開始塌掉的人生 →](./17-motorcycle-crash.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters-hant/16-afterglow-of-windfall)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/16-afterglow-of-windfall)
